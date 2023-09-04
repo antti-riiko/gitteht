@@ -13,3 +13,10 @@ directory
 13 git push
 14 touch notes.md
 15 history
+16 history -w ~/notes.md
+17 git status
+18 git add notes.md
+19 git commit -m "Joku viesti"
+20 git push
+21 git status
+22 history
